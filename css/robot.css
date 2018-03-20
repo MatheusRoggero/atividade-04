@@ -1,0 +1,186 @@
+* {
+	padding:0px;
+	margin: 0px auto;
+	
+
+}
+/*umas edições na body*/
+body{
+	background-color:#FFE4B5;	
+
+
+
+}
+/*ediçoes no cabeçalho*/
+.cabecalho {
+		display: block;	
+		width: 100%;
+		height: 100px;
+		margin: 0px auto ;
+		background-color:#A52A2A;
+		
+}
+/*edições no mennu*/
+.menu {
+	width: 100%;
+	height:70px;
+	display:block; 
+	margin:0 auto;
+	background-color:#2F4F4F	;
+	
+
+}
+/*ediçoes na primeira parte do corpo*/
+.corpo {
+	 margin:0px auto;
+	 width: 100%;
+	 height: 900px;
+	 background-color:#FFE4B5;
+}
+
+
+.corpo3 {
+		width: 100%;
+		height: 200px;
+		background-color: #FFE4B5;
+		margin: 0px auto;
+
+}
+
+.rodape {
+		width: 100%;
+		height:100px;
+		background-color:#A52A2A;
+		
+}
+
+
+.menu {
+	display: block;
+}
+.menu ul li {
+	display: inline-block;
+	
+}
+
+.menu ul {
+	position: absolute;
+	margin: 20px;
+	left: 500px;
+	border-radius: 4px;
+
+}
+
+.menu li {
+	padding: 7px;
+	margin: 2px 2px 2px 2px;
+	background-color: #B22222;	
+	color:#fff;
+	border-radius: 4px;
+
+}
+.menu a {
+		text-decoration: none;
+		color: #fff;
+		font-size: 18px;
+}
+
+.menu a:hover {
+	background-color: #000000;
+	color: #00FF00;
+	transition: .4s;
+}
+
+.menu li:hover{
+	background-color: #000000;
+	color: #00FF00;
+	transition: .4s;
+}
+
+.menu ul:hover {
+	background-color:#fff;
+	transition: .3s;
+
+}
+.corpo a {
+	color: #fff;
+	text-decoration: none;
+	background-color: #B22222;	
+}
+
+.corpo img {
+		width: 200px;
+		height: 200px;
+		position: absolute;
+		left: 200px;
+}
+
+.cabecalho img {
+		width: 80px;
+
+}
+
+.cabecalho h2 {
+		position: absolute;
+		left: 140px;
+		top: 20px;
+		font-size:30px;
+}
+
+
+
+
+
+.rodape3 {
+		margin-left: 570px;
+		margin-top:30px
+		padding:0;
+}
+
+.rodape4{
+		margin-left: 600px;
+		padding: 15px;
+		
+}
+
+/*Formatação do Conteudo da div(Corpo)*/
+
+.elliot{
+	width: 500px;
+	background-color:#D3D3D3;
+	height: 1000px;
+	border-radius: 10px;
+
+}
+
+.elliot img {
+		position:absolute;
+		left: 520px;
+		margin-top: 200px;
+		width:300px;
+		height:200px;
+		border-radius: 4px;
+
+	}
+
+.elliot h4{
+		position: absolute;
+		left: 630px;
+		margin:0;
+		padding: 10px;
+		margin-top:100px;
+		background-color:#A52A2A;
+		border-radius: 5px;
+		color: #fff;
+
+
+}
+
+.elliot p {
+		position: absolute;
+		left:560px;
+		margin:0;
+		padding: 10px;
+		margin-top: 500px;
+		color:#FF0000	;
+}

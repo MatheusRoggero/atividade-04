@@ -1,0 +1,284 @@
+* {
+	padding:0px;
+	margin: 0px auto;
+		
+	
+
+}
+/*umas edições na body*/
+body{
+	background-color:#FFE4B5;	
+
+
+
+}
+/*ediçoes no cabeçalho*/
+.cabecalho {
+		display: block;	
+		width: 100%;
+		height: 100px;
+		margin: 0px auto ;
+		background-color:#A52A2A;
+		
+}
+/*edições no mennu*/
+.menu {
+	width: 100%;
+	height:70px;
+	display:block; 
+	margin:0 auto;
+	background-color:#2F4F4F	;
+	
+
+}
+/*ediçoes na primeira parte do corpo*/
+.corpo {
+	 margin:0px auto;
+	 width: 100%;
+	 height: 300px;
+	 background-color:#FFE4B5;
+}
+
+.corpo2 {
+	width: 100%;
+	height: 300px;
+	background-color:#FFE4B5;
+}
+.corpo3 {
+		width: 100%;
+		height: 200px;
+		background-color: #FFE4B5;
+		margin: 0px auto;
+
+}
+.corpo4 {
+
+	width: 100%;
+	height: 200px;
+	background-color:#FFE4B5;
+}
+.rodape {
+		width: 100%;
+		height:100px;
+		background-color:#A52A2A;
+		
+}
+
+
+.menu {
+	display: block;
+}
+.menu ul li {
+	display: inline-block;
+	
+}
+
+.menu ul {
+	position: absolute;
+	margin: 20px;
+	left: 500px;
+	border-radius: 4px;
+
+}
+
+.menu li {
+	padding: 7px;
+	margin: 2px 2px 2px 2px;
+	background-color: #B22222;	
+	color:#fff;
+	border-radius: 4px;
+
+}
+.menu a {
+		text-decoration: none;
+		color: #fff;
+		font-size: 18px;
+}
+
+.menu a:hover {
+	background-color: #000000;
+	color: #00FF00;
+	transition: .4s;
+}
+
+.menu li:hover{
+	background-color: #000000;
+	color: #00FF00;
+	transition: .4s;
+}
+
+.menu ul:hover {
+	background-color:#fff;
+	transition: .3s;
+
+}
+.corpo ul li {
+		display: inline-block;
+}
+
+.corpo ul {
+		position: absolute;	
+		margin: 220px;
+		left: 50px;	
+}
+
+.corpo li {
+		padding: 7px ;
+		margin: 2px 2px 2px 2px;
+		color:#fff;
+		border-radius: 4px;
+		background-color: #B22222;	
+}
+
+.corpo a {
+	color: #fff;
+	text-decoration: none;
+	background-color: #B22222;	
+}
+
+.corpo img {
+		width: 200px;
+		height: 200px;
+		position: absolute;
+		left: 200px;
+}
+
+.cabecalho img {
+		width: 80px;
+
+}
+
+.cabecalho h2 {
+		position: absolute;
+		left: 140px;
+		top: 20px;
+		font-size:30px;
+}
+.img3 {
+		width: 200px;
+		height: 200px;
+		position: absolute;
+		left: 200px;
+}
+
+.corpo2 ul li {
+		display: inline-block;
+}
+
+.corpo2 ul {
+		position: absolute;	
+		margin: 220px;
+		left: 50px;	
+}
+
+.corpo2 li {
+		padding: 7px ;
+		margin: 2px 2px 2px 2px;
+		color:#fff;
+		border-radius: 4px;
+		background-color: #B22222;	
+}
+
+.corpo2 a {
+	color: #fff;
+	text-decoration: none;
+	background-color: #B22222;	
+}
+/*img tyrell*/
+.img4 {
+		width: 200px;
+		height: 200px;
+		position: absolute;
+		left: 800px;
+		margin-top: 7px;
+		border-radius: 5px;
+
+	}
+
+.corpo2 a:hover {
+	background-color:#000000;
+	color:#00FF00
+	transition: .4s;
+}
+
+/*parte 2 elliot ediçao botao*/
+
+	
+.corpo2 li:hover{
+	background-color: #000000;
+	color: #00FF00;
+	transition: .4s;
+}
+
+.corpo2 ul:hover {
+	background-color:#fff;
+	transition: .3s;
+
+}
+
+.corpo a:hover {
+	background-color:#000000;
+	color:#00FF00;
+	transition: .4s;
+}
+
+.corpo li:hover { 
+	background-color: #000000;
+	color: #7CFC00;
+	transition: .4s;
+}
+
+.corpo ul:hover {
+	background-color:#fff;
+	transition: .3s;
+	
+
+}
+/*esse é o botao abrir o tyrell (direita) n sei como pegou style 
+do resto dos botao nem fiz style dele kk */
+.botao2 ul li {
+		position: absolute;
+		left: 600px;
+}
+
+.botao2 a:hover {
+	background-color:#000000;
+	color:#00FF00;
+	transition: .4s;
+}
+
+.botao2 li:hover { 
+	background-color: #000000;
+	color: #7CFC00;
+	transition: .4s;
+}
+
+.botao2 ul:hover {
+	background-color:#fff;
+	transition: .3s;
+	
+
+}	
+.botao3 ul li {
+		position: absolute;
+		left: 600px;
+}
+
+.botao3 img {
+		position:absolute;
+		left: 800px;
+		border-radius: 5px;
+}
+
+.rodape3 {
+		margin-left: 570px;
+		margin-top:30px
+		padding:0;
+}
+
+.rodape4{
+		margin-left: 600px;
+		padding: 15px;
+		
+}
+
